@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://i.imgur.com/CRGWZvW.png" alt="Ilustração de programação" width="300" align="right">
+  
+  # Mairim-Nab
+  Olá! Sou Mairim e estou iniciando minha jornada no mundo da programação e análise de dados.
 
-<!--
-**mairim-nab/Mairim-Nab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Conecte-se Comigo
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E6E4C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mairim-neres-6a3466306/)
+  [![GitHub](https://img.shields.io/badge/GitHub-2E6E4C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mairim-nab)
+</div>
 
-Here are some ideas to get you started:
+## Habilidades
+![Python](https://img.shields.io/badge/python-2E6E4C?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-2E6E4C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Estatísticas](https://img.shields.io/badge/POwer_BI-2E6E4C?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mairim-Nab&theme=transparent&bg_color=1B3A2D&border_color=2E6E4C&show_icons=true&icon_color=FFFFFF&text_color=FFF&hide=stars&hide_title=true&ring_color=DDDDDD)
