@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://i.imgur.com/CRGWZvW.png" alt="Ilustração de programação" width="350" align="right">
+  <img src="https://i.imgur.com/CRGWZvW.png" alt="Ilustração de programação" width="450" align="right">
   
   # Mairim-Nab
   Olá! Sou Mairim e estou iniciando minha jornada em análise de dados, explorando Python, SQL e Power BI para transformar dados em insights estratégicos. Meu objetivo é aprofundar meus conhecimentos e aplicá-los na prática, criando soluções inteligentes e impactantes. 
