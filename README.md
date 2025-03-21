@@ -12,6 +12,3 @@
 ![Python](https://img.shields.io/badge/python-2E6E4C?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-2E6E4C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Estatísticas](https://img.shields.io/badge/POwer_BI-2E6E4C?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mairim-Nab&theme=transparent&bg_color=1B3A2D&border_color=2E6E4C&show_icons=true&icon_color=FFFFFF&text_color=FFF&hide=stars&hide_title=true&ring_color=DDDDDD)
