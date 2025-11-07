@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Entusiasta da área de dados e tecnologia, com interesse especial em explorar como a análise e a atomação podem transformar informações em soluções práticas. Estou sempre em busca de apender, experimentar novas ferramentas e colocar em prática o que descubro ao longo da minha jornada.</p>
+<p align="left">
+Entusiasta da área de dados e tecnologia, com interesse especial em explorar como a análise e a automação
+podem transformar informações em soluções práticas. Estou sempre em busca de aprender, experimentar novas
+ferramentas e colocar em prática o que descubro ao longo da minha jornada.
+</p>
 
 ###
 
@@ -10,14 +14,21 @@
 
 ###
 
-<p align="left">🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela FMU<br>📚 Técnica em Administração pela ETEC<br>🐍Estudando Python, SQL e ferramentas de BI<br>⚙️ Explorando automações com Power Apps e Power Automate<br>📊Interessada em dados, bussines intelligence e inovação</p>
+<p align="left">
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela FGV<br>
+📚 Técnica em Administração pela ETEC<br>
+🐍 Estudando Python, SQL e ferramentas de BI<br>
+⚙️ Explorando automações com Power Apps e Power Automate<br>
+📊 Interessada em dados, business intelligence e inovação
+</p>
 
 ###
 
+<!-- Pac-Man contribution graph (estilizado) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mairim-nab/mairim-nab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mairim-nab/mairim-nab/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mairim-nab/mairim-nab/output/pacman-contribution-graph.svg" />
 </picture>
 
 ###
@@ -41,7 +52,7 @@
   <a href="https://www.linkedin.com/in/mairim-nab/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="neresmairim@gmail.com" target="_blank">
+  <a href="mailto:neresmairim@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
