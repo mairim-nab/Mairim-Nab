@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-Entusiasta da área de dados e tecnologia, com interesse especial em explorar como a análise e a automação
-podem transformar informações em soluções práticas. Estou sempre em busca de aprender, experimentar novas
-ferramentas e colocar em prática o que descubro ao longo da minha jornada.
+Sou movida pela curiosidade e pela vontade de transformar dados em algo que faça diferença. 
+Vejo a tecnologia como uma ferramenta para simplificar processos, gerar valor e criar soluções práticas. 
+Cada novo projeto é uma oportunidade de aprender, experimentar e evoluir dentro desse universo de dados e automação.
 </p>
 
 ###
@@ -17,7 +17,7 @@ ferramentas e colocar em prática o que descubro ao longo da minha jornada.
 <p align="left">
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela FGV<br>
 📚 Técnica em Administração pela ETEC<br>
-🐍 Estudando Python, SQL e ferramentas de BI<br>
+🐍 Aprofundando conhecimentos em Python, SQL e Power BI<br>
 ⚙️ Explorando automações com Power Apps e Power Automate<br>
 📊 Interessada em dados, business intelligence e inovação
 </p>
